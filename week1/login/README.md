@@ -1,6 +1,6 @@
 # Simple Login and Register
 ## APK Link
-<a href="https://github.com/baguspam/flutter-belajar/raw/master/week1/login/android/app/release/app-release.apk">https://github.com/baguspam/flutter-belajar/raw/master/week1/login/android/app/release/app-release.apk</a>
+<a href="https://github.com/baguspam/flutter-belajar/raw/master/week1/login/apk/app-release.apk">https://github.com/baguspam/flutter-belajar/raw/master/week1/login/apk/app-release.apk</a>
 
 ## Username and Password
 bagus:12345
