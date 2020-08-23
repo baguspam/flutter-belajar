@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Tugas Week 1',
+      title: 'Tugas Week 2 - Part 1',
       theme: ThemeData(
         primarySwatch: Colors.blue,
           scaffoldBackgroundColor: Colors.white
