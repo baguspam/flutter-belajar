@@ -265,21 +265,7 @@ class _CalcState extends State<Calc> {
                          ),
                        ),
                        Container(
-                         width: MediaQuery.of(context).size.width / 4.1,
-                         child: RaisedButton(
-                           padding: EdgeInsets.fromLTRB(0, 20, 0, 20),
-                           color: Colors.grey[400],
-                           textColor: Colors.white,
-                           child: Text(".", style: TextStyle(fontSize: 18),),
-                           onPressed: (){
-                             setState(() {
-                               calculator(".");
-                             });
-                           },
-                         ),
-                       ),
-                       Container(
-                         width: MediaQuery.of(context).size.width / 2.04,
+                         width: MediaQuery.of(context).size.width / 1.35,
                          child: RaisedButton(
                            padding: EdgeInsets.fromLTRB(0, 20, 0, 20),
                            color: Colors.orange,
