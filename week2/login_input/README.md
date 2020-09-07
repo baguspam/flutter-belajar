@@ -1,6 +1,6 @@
 # Simple Login and Register
 ## APK Link
-<a href="https://github.com/baguspam/flutter-belajar/raw/master/week1/login/android/app/release/app-release.apk">https://github.com/baguspam/flutter-belajar/raw/master/week1/login/android/app/release/app-release.apk</a>
+<a href="https://github.com/baguspam/flutter-belajar/blob/master/week2/login_input/apk/app-release.apkk">https://github.com/baguspam/flutter-belajar/blob/master/week2/login_input/apk/app-release.apk</a>
 
 ## Username and Password
 admin:admin
